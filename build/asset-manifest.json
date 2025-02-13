@@ -1,15 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.ade7fa2a.css",
-    "main.js": "/static/js/main.322658c5.js",
+    "main.css": "/static/css/main.11826de2.css",
+    "main.js": "/static/js/main.825b2e0c.js",
     "static/js/488.e75445ad.chunk.js": "/static/js/488.e75445ad.chunk.js",
+    "static/media/curly.PNG": "/static/media/curly.cc8165161e2fb9dd04d2.PNG",
+    "static/media/shirt.PNG": "/static/media/shirt.2e58637c2f9aca25ef20.PNG",
+    "static/media/ladies-shoe2.PNG": "/static/media/ladies-shoe2.9dd9bea82acd43379eb9.PNG",
+    "static/media/straight-curl.PNG": "/static/media/straight-curl.bdaf9a325fe358712c36.PNG",
+    "static/media/shirt1.PNG": "/static/media/shirt1.e8da727688c4195128f9.PNG",
+    "static/media/ladies-shoe.PNG": "/static/media/ladies-shoe.8b427fae0a99f85ed65e.PNG",
+    "static/media/ssd-drives.PNG": "/static/media/ssd-drives.73c6fe02c397292fb8b8.PNG",
+    "static/media/wireless-charger.png": "/static/media/wireless-charger.c2155afc97974c2eac3b.png",
+    "static/media/keyboardandmouse.PNG": "/static/media/keyboardandmouse.ad79441d6edff8a8e6ea.PNG",
+    "static/media/milo_tin_1.4kg.jpg": "/static/media/milo_tin_1.4kg.91645d52112def141cf1.jpg",
+    "static/media/maggi_cubes_60tb.png": "/static/media/maggi_cubes_60tb.303d77bf5075f7e7a52f.png",
+    "static/media/benny.png": "/static/media/benny.512753aa3980072ea33e.png",
+    "static/media/ear-buds.png": "/static/media/ear-buds.98a8e4432db02f001e18.png",
+    "static/media/milo_900gm.jpg": "/static/media/milo_900gm.87dc484192c0bf2b1e66.jpg",
+    "static/media/milo_tin_400gm.jpg": "/static/media/milo_tin_400gm.024898595314dd97c097.jpg",
+    "static/media/hair_serum.png": "/static/media/hair_serum.0ad328207fd0d7664d6f.png",
     "index.html": "/index.html",
-    "main.ade7fa2a.css.map": "/static/css/main.ade7fa2a.css.map",
-    "main.322658c5.js.map": "/static/js/main.322658c5.js.map",
+    "main.11826de2.css.map": "/static/css/main.11826de2.css.map",
+    "main.825b2e0c.js.map": "/static/js/main.825b2e0c.js.map",
     "488.e75445ad.chunk.js.map": "/static/js/488.e75445ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ade7fa2a.css",
-    "static/js/main.322658c5.js"
+    "static/css/main.11826de2.css",
+    "static/js/main.825b2e0c.js"
   ]
 }
